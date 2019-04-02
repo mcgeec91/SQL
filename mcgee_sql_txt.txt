@@ -271,4 +271,4 @@ CREATE VIEW top_five_genres AS
 -- 8b. How would you display the view that you created in 8a?
 SELECT * FROM top_five_genres;
 -- 8c. You find that you no longer need the view `top_five_genres`. Write a query to delete it.
-DROP VIEW top_five_genres;
+DROP VIEW top_five_genres; 
